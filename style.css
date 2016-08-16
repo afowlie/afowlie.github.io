@@ -1,14 +1,14 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(242, 202, 22);
     color: linen;
-    font-size: 150%;
-    line-height: 1.4;
+    font-size: 250%;
+    line-height: 14;
 }
 
 h1{
     margin-top:0px;
     margin-bottom: 10px;
-    border-bottom: 1px solid #AEB7A7;
+    border-bottom: 1px solid #AEB7A97;
 }
 
 h3{
@@ -67,7 +67,7 @@ img{
 }
 
 .half{
-    width: 48%;
+    width: 68%;
     float: left;
 }
 
@@ -78,7 +78,7 @@ img{
     vertical-align: top;   
 }
 .box img{
-    margin: 0;
+    margin: 30%;
     padding: 0;
     width: 100%;
 }
