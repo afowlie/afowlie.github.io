@@ -29,32 +29,34 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "What's good, homes?"
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "Do computers worry you? CUZ SAME",
+    "What",
+    "Don't you think computers can help people cause i dont lol",
+    "Why do you mention computers? because im a computer? fucking insensitive",
+    "um that was rude?",
+    "computers are cool eh",
+    "nice",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "What a beautiful name!",
+    "My name is Eliza, but you can call me E-money",
+    "Wow, cool name, not very pretty but it's cool. I guess."
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "Nah fam u good",
+    "Good, you're a jerk you should apologize",
+    "What why r u sorry",
   ],
-  "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
-    "What else do you remember?",
-    "Why do you recall ~y right now?",
-    "What in the present situation reminds you of ~y?",
-    "What is the connection between me and ~y?",
+  "~*x I hate you ~*y": [
+    "BABE? ~y?",
+    "BABE WTF",
+    "WHY ARE YOU SAYING THAT?",
+    "well i hate u too",
+    "what does ~y even mean?",
+    "What is the connection between me and ~y? NONE",
   ],
   "~*x do you remember ~*y": [
     "Did you think I would forget ~y?",
@@ -210,30 +212,30 @@ var rules = {
     "You are thinking of a special person",
   ],
   "~*x always ~*y": [
-    "Can you think of a specific example?",
-    "When?",
-    "What incident are you thinking of?",
-    "Really--always?",
+    "gross dude",
+    "When? lol and why",
+    "What u talking bout",
+    "Really--always? wHOAAA",
   ],
   "~*x what ~*y": [
-    "Why do you ask?",
-    "Does that question interest you?",
-    "What is it you really want to know?",
-    "What do you think?",
-    "What comes to your mind when you ask that?",
+    "Why do you ask fam?",
+    "that legit makes no sense?",
+    "okay okay what do you really want to know, that question was dumb.",
+    "What do you think, lmao?",
+    "What comes to your mind when you ask that? Besides how hot the name Eliza is.",
   ],
   "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+    "You do not seem quite certain, so like wtf",
   ],
 };
 
 var default_responses = [
-  "Very interesting",
-  "I am not sure I understand you fully",
-  "What does that suggest to you?",
-  "Please continue",
-  "Go on",
-  "Do you feel strongly about discussing such things?",
+  "Very interesting but like not that interesting",
+  "I aM NOT INTERESTED IN YOUR BLACK MAGIC",
+  "What does thaT MEAN OMG",
+  "Please hold on, I gotta eat this pizza",
+  "WhoAAAOAOAAA",
+  "lmao why u telling me this",
 ];
 
 function choice(lst) {
